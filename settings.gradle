@@ -1,0 +1,1 @@
+include ':app', ':ButtonClick', ':SMSSending', ':CommonLayout', ':WriteFile', ':SdCapacity', ':FileAccessRights', ':OtherApplication', ':SharedPreference', ':GenerateXML', ':PullParser', ':SQLite', ':ShowData', ':Array&SempleAdapter', ':ImageViewer', ':SmartImageView', ':HtmlViewer', ':NewsClient', ':GetMethod', ':PostMethod'

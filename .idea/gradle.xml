@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../gradle-3.5" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Array&amp;SempleAdapter" />
+            <option value="$PROJECT_DIR$/ButtonClick" />
+            <option value="$PROJECT_DIR$/CommonLayout" />
+            <option value="$PROJECT_DIR$/FileAccessRights" />
+            <option value="$PROJECT_DIR$/GenerateXML" />
+            <option value="$PROJECT_DIR$/GetMethod" />
+            <option value="$PROJECT_DIR$/HtmlViewer" />
+            <option value="$PROJECT_DIR$/ImageViewer" />
+            <option value="$PROJECT_DIR$/NewsClient" />
+            <option value="$PROJECT_DIR$/OtherApplication" />
+            <option value="$PROJECT_DIR$/PostMethod" />
+            <option value="$PROJECT_DIR$/PullParser" />
+            <option value="$PROJECT_DIR$/SMSSending" />
+            <option value="$PROJECT_DIR$/SQLite" />
+            <option value="$PROJECT_DIR$/SdCapacity" />
+            <option value="$PROJECT_DIR$/SharedPreference" />
+            <option value="$PROJECT_DIR$/ShowData" />
+            <option value="$PROJECT_DIR$/SmartImageView" />
+            <option value="$PROJECT_DIR$/WriteFile" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

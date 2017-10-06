@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array&amp;SempleAdapter/Array&amp;SempleAdapter.iml" filepath="$PROJECT_DIR$/Array&amp;SempleAdapter/Array&amp;SempleAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ButtonClick/ButtonClick.iml" filepath="$PROJECT_DIR$/ButtonClick/ButtonClick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommonLayout/CommonLayout.iml" filepath="$PROJECT_DIR$/CommonLayout/CommonLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileAccessRights/FileAccessRights.iml" filepath="$PROJECT_DIR$/FileAccessRights/FileAccessRights.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenerateXML/GenerateXML.iml" filepath="$PROJECT_DIR$/GenerateXML/GenerateXML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetMethod/GetMethod.iml" filepath="$PROJECT_DIR$/GetMethod/GetMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HtmlViewer/HtmlViewer.iml" filepath="$PROJECT_DIR$/HtmlViewer/HtmlViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageViewer/ImageViewer.iml" filepath="$PROJECT_DIR$/ImageViewer/ImageViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProject.iml" filepath="$PROJECT_DIR$/MyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewsClient/NewsClient.iml" filepath="$PROJECT_DIR$/NewsClient/NewsClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OtherApplication/OtherApplication.iml" filepath="$PROJECT_DIR$/OtherApplication/OtherApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PostMethod/PostMethod.iml" filepath="$PROJECT_DIR$/PostMethod/PostMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullParser/PullParser.iml" filepath="$PROJECT_DIR$/PullParser/PullParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SMSSending/SMSSending.iml" filepath="$PROJECT_DIR$/SMSSending/SMSSending.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQLite/SQLite.iml" filepath="$PROJECT_DIR$/SQLite/SQLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SdCapacity/SdCapacity.iml" filepath="$PROJECT_DIR$/SdCapacity/SdCapacity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SharedPreference/SharedPreference.iml" filepath="$PROJECT_DIR$/SharedPreference/SharedPreference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShowData/ShowData.iml" filepath="$PROJECT_DIR$/ShowData/ShowData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmartImageView/SmartImageView.iml" filepath="$PROJECT_DIR$/SmartImageView/SmartImageView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WriteFile/WriteFile.iml" filepath="$PROJECT_DIR$/WriteFile/WriteFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
